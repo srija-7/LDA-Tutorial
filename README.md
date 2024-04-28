@@ -1,6 +1,6 @@
 # LDA-Tutorial
 DA623 Assignment
-Linear Discriminant Analysis (LDA) for Dimensionality Reduction
+## Linear Discriminant Analysis (LDA) for Dimensionality Reduction
 
 Gandrathi Srija - 200101030
 
